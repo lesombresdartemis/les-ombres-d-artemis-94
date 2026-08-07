@@ -1,0 +1,12 @@
+MISE EN LIGNE GITHUB PAGES
+
+1. Décompressez ce ZIP.
+2. Dans le dépôt GitHub, téléversez TOUT le contenu extrait à la racine :
+   - index.html
+   - le dossier assets complet
+   - les PDF
+3. Ne téléversez pas le ZIP lui-même et ne placez pas les fichiers dans un sous-dossier.
+4. Vérifiez que assets/images est visible dans le dépôt.
+5. Après Commit changes, attendez le déploiement puis faites Ctrl+F5.
+
+Le site contient des chemins relatifs assets/images/... ; sans le dossier assets, aucun logo ni aucune photo ne peut apparaître.
